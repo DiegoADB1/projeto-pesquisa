@@ -2,15 +2,8 @@
 pip install MetaTrader5 \
 pip install matplotlib \
 pip install pandas \
-pip install plotly
-
-### If you have error
-
+pip install plotly \
 pip install cufflinks
-
-# Link to download metaTrader5
-
-https://www.metatrader5.com/en/download
 
 # How to use
 
